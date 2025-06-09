@@ -6,7 +6,9 @@ The project was developed in two phases:
 2. **Full Integration** – Connected the scheduler to a 4x4 Systolic Array (design by a collaborator) and verified its operation for matrix multiplication.
 
 <br/>
+
 ## 📁 Project Structure
+```
 systolic-scheduler-4x4/
 │
 ├── README.md 
@@ -29,7 +31,7 @@ systolic-scheduler-4x4/
 │ ├── tb_with_scheduler.v # Full testbench including scheduler
 │ ├── test 
 │ └── systolic_debug.vcd 
-
+```
 <br/>
 
 ## Running the Simulations
