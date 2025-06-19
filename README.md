@@ -7,7 +7,7 @@ The project was developed in two phases:
 
 <br/>
 
-## 📁 Project Structure
+##  Project Structure
 ```
 systolic-scheduler-4x4/
 │
